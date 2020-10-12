@@ -1,0 +1,5 @@
+config.php - configure database
+login.php - allows login
+register.php - allows registration
+welcome.php - welcome after login
+logout.php - allow user to logout
